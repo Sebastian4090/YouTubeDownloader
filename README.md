@@ -14,7 +14,8 @@ Sound plays after file gets downloaded (of course you can disable it in the app 
 It even shows you progress bar when the file is downloading.
 
 
-
+To download in 1080p quality you NEED to have FFMPEG.exe in the program directory!
+Download Link: https://www.gyan.dev/ffmpeg/builds/
 
 1080p downloading works this way:
 - The video and audio is downloaded separately
