@@ -1,8 +1,12 @@
-# YouTubeDownloader
+# YouTubeDownloader - READ IT!
 YouTube Downloader App (download videos or music)
 
+To start:
+- clone repo
+- click the YoutubeDownloader.exe
 
-[NO LONGER WORKS BEACUSE PYTUBE IS NO LONGER SUPPORTED]
+If youre on linux then just use wine (keep in mind that wine can be a little bit buggy with this app but it mostly works ok)
+<br><br>
 
 Fun little project I created for my friends so we can download youtube videos or youtube music.
 
@@ -12,7 +16,6 @@ It can download 1080p (it uses FFMPEG to do that, more explained at the bottom),
 You can change directory where file will be downloaded to.
 Sound plays after file gets downloaded (of course you can disable it in the app if you want to). 
 It even shows you progress bar when the file is downloading.
-
 
 To download in 1080p quality you NEED to have FFMPEG.exe in the program directory!
 Download Link: https://www.gyan.dev/ffmpeg/builds/
